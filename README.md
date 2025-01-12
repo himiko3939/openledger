@@ -3,7 +3,7 @@
 ![banner](image.png)
 
 
-- Website [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=pkf36oc2fa)
+- Website [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=bdsrmmbcju)
 - Twitter [@OpenledgerHQ](https://x.com/OpenledgerHQ)
 
 
@@ -16,12 +16,12 @@
 - **Support Proxy Usage (http/socks)**
 
 ## Requirements
-- **Register**: [https://testnet.openledger.xyz/](https://testnet.openledger.xyz/?referral_code=pkf36oc2fa)
+- **Register**: [https://testnet.openledger.xyz/](https://testnet.openledger.xyz/?referral_code=bdsrmmbcju)
 - **Node.js**: Ensure you have Node.js installed.
 - **npm**: Ensure you have npm installed.
 
 - **Wallets from open-ledger account**: how to get ???
-- **Go To dashboard** [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=pkf36oc2fa) and copy your wallet, look at image below:
+- **Go To dashboard** [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=bdsrmmbcju) and copy your wallet, look at image below:
 
    ![wallet](image-1.png)
 
@@ -39,8 +39,8 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/im-hanzou/opledBot.git
-   cd opledBot
+   git clone https://github.com/himiko3939/openledger.git
+   cd openledger
    ```
 2. Install dependencies:
    ```bash
@@ -67,3 +67,4 @@
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This project is licensed under the [MIT License](LICENSE).
+Made By [im-hanzou](https://github.com/im-hanzou)
